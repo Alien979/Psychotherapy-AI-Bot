@@ -3,7 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from services import cohere_service, openai_service, pinecone_service
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:\\Users\\Suhai\\Desktop\\language\\database.db' # Adjust this as needed
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:\\Users\\User\\Desktop\\language\\EDITH_MENTAL_HEALTH\\database.db' # Adjust this as needed
 db = SQLAlchemy(app)
 
 class User(db.Model):
