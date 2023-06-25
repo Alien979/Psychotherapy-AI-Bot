@@ -4,7 +4,7 @@ import torch
 import numpy as np
 from pinecone import Vector
 
-pinecone.init(api_key='ddc7c4bb-9078-41c6-836e-664c9f66efd9', environment='asia-southeast1-gcp-free')
+pinecone.init(api_key='#ENTER YOUR OPEN PINECONE API KEY HERE', environment='ENTER PINECONE ENVIRONMENT HERE')
 index_name = "mental-health-support"
 
 tokenizer = AutoTokenizer.from_pretrained("sentence-transformers/bert-base-nli-mean-tokens")
