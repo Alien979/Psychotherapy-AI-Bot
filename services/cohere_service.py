@@ -4,7 +4,7 @@ import json
 def get_response(message):
     url = "https://api.cohere.ai/v1/infer"
     headers = {
-        "Authorization": "#ENTER YOUR COHERE API KEY HERE",
+        "Authorization": "l0nxA2GdkkkQYgsjZJ6HRTtDfaRBE4vlpHXGWxNx",
         "Content-Type": "application/json",
     }
     data = {
