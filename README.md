@@ -1,4 +1,4 @@
-# EDITH_MENTAL_HEALTH
+# Psychotherapy AI Bot
 An interactive chatbot for individuals who need someone to talk to
 ## GitHub Repository Setup
 
