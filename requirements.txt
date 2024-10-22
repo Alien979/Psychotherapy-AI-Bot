@@ -44,7 +44,7 @@ torch==2.0.1
 tqdm==4.65.0
 transformers==4.30.2
 typing_extensions==4.6.3
-urllib3==2.0.3
+urllib3==2.2.2
 Werkzeug==2.3.6
 win32-setctime==1.1.0
 yarl==1.9.2
