@@ -16,4 +16,4 @@ updates:
   - package-ecosystem: "docker"
     directory: "/" # Directory where your Dockerfile is located
     schedule:
-      interval: "weekly
+      interval: "weekly"
