@@ -45,7 +45,7 @@ tqdm==4.65.0
 transformers==4.30.2
 typing_extensions==4.6.3
 urllib3==2.0.3
-Werkzeug==2.3.6
+Werkzeug==3.1.1
 win32-setctime==1.1.0
 yarl==1.9.2
 zipp==3.15.0
